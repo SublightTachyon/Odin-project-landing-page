@@ -1,0 +1,8 @@
+nav {
+        display: flex;
+        background-color: navy;
+        padding-top: 0px;
+    }
+    top {
+        background-color: navy;
+    }
