@@ -35,7 +35,13 @@ a{
     background-color: darkolivegreen;
 }
 .coin {
-    width: 15%;
+    width: 180px;
     height: 180px;
 
+}
+.Coins{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid red;
+    align-items: space-between;
 }
