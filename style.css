@@ -3,8 +3,9 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: rgba(10, 66, 10, 0.959);
-width: 100%;
+    background-color: #1f2937;
+    width: 100%;
+    color: white;
 }
 
 .logo{
@@ -21,6 +22,7 @@ width: 100%;
     justify-content: space-between;
     padding-right: 20px;
     border: 1px solid red;
+    color: white;
 }
 
 a{
@@ -32,16 +34,24 @@ a{
     align-items: center;
     width: 100%;
     border: 1px solid red;
-    background-color: darkolivegreen;
-}
-.coin {
-    width: 180px;
-    height: 180px;
+    background-color: #1f2937);}
 
+
+.coin {
+    width: 200px;
+    height: 180px;
+    border:5px solid #3882f6;
 }
 .Coins{
     display: flex;
     justify-content: space-between;
     border: 1px solid red;
     align-items: space-between;
+    
+}
+.coin-container {
+display: flex;
+justify-content: space-between;
+width: 100%;
+
 }
