@@ -12,10 +12,14 @@
     display: flex;
     flex: auto;
     justify-content:center;
+    align-items: center;
     border:1px solid red;
     width: 20%;
+    
 }
-
+.cinfo {
+    height: 24px;
+}
 .links{
     width: 30%;
     display: flex;
