@@ -29,7 +29,7 @@ body{
 .links{
     width: 30%;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     padding-right: 20px;
     
     color: white;
